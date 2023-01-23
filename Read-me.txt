@@ -1,0 +1,43 @@
+Boeing 747-200 Supertanker
+--------------------------
+
+
+Mod features:
+-working flaps, gears, ailerons, rudder, spoilers, elevators
+-detailed cockpit with working gauges
+-Working water spray
+-lights
+-custom col mesh (allows bullet holes and walking on vehicle)
+-burn effects
+
+
+Notes:
+-lights may sometime not work, switch camera few times and it should work
+-door commands: 
+	Rear doors: Open inner spoilers (No use, but you can open them for screenshots or so)
+
+
+Credits:
+FSX (Project Opensky)
+Rockstar Games 
+
+Converted and edited+interior by SkylineGTRFreak
+
+-----------------------------------------------------------------------------
+Instructions:
+
+1. Place the "747fire" folder into [Gamefolder]\update\X64\dlcpacks\
+2. With OpenIV, open [Game folder]\update\update.rpf\common\data\dlclist.xml and add this with Notepad++
+		<Item>dlcpacks:\747fire\</Item>
+
+4. Now you are done, you will need a trainer with "spawn by name" function (Enchanted Native Trainer for example) to spawn the vehicle type in:
+
+"747fire"
+
+
+If the game crashes on startup, use a custom gameconfig.xml (https://www.gta5-mods.com/misc/gta-5-gameconfig-300-cars)
+
+
+
+I would advise using a Mods folder (more info at OpenIV) 
+and make a backup, I take no responsibility if any shit happens.
